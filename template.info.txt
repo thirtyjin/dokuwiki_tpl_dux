@@ -3,5 +3,5 @@ author   Thirty Jin
 email    thirtyjin@gmail.com
 date     2014-09-02
 name     Dux Template
-desc     DuLiangHeng’s default template since 2014
-url      http://www.thirtyjin.com/
+desc     UXC CES UE Team default template since 2017
+url      http://www.youcanyouup.info/
