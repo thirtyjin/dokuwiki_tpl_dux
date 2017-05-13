@@ -12,7 +12,7 @@ if (!defined('DOKU_INC')) die();
     <?php tpl_license(''); // license text ?>
 
     
-    <div class="copyright">©2016 Baidu www.youcanyouup.info</div>
+    <div class="copyright">©2017 Baidu www.youcanyouup.info</div>
 </div></div><!-- /footer -->
 
 <?php
