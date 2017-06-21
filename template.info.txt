@@ -1,7 +1,7 @@
 base     dux
 author   Thirty Jin
 email    thirtyjin@gmail.com
-date     2014-09-02
+date     2017-07-01
 name     Dux Template
 desc     UXC CES UE Team default template since 2017
 url      http://www.youcanyouup.info/
