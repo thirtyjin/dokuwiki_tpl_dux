@@ -7,6 +7,9 @@
 if (!defined('DOKU_INC')) die();
 ?>
 
+<!-- HEADERMENU -->
+<?php tpl_includeFile('headermenu.html'); ?>
+    
 <!-- ********** HEADER ********** -->
 <div id="dokuwiki__header"><div class="pad group">
 
@@ -77,6 +80,7 @@ if (!defined('DOKU_INC')) die();
 
     </div>
 
+
     <!-- BREADCRUMBS -->
     <?php if($conf['breadcrumbs'] || $conf['youarehere']): ?>
         <div class="breadcrumbs">
@@ -86,6 +90,7 @@ if (!defined('DOKU_INC')) die();
             <?php endif ?>
         </div>
     <?php endif ?>
+
     <div id="searchfrom">
 
         <?php if ($conf['tagline']): ?>

@@ -1,0 +1,40 @@
+
+
+.dokuwiki .headermenu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 8px 0;
+    background-color: #fff;
+    border: solid #ccc;
+    border-width: 0;
+    box-shadow: 0 0 2px #999;
+}
+
+.dokuwiki .headermenu ul {
+    text-align: left;
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+}
+
+.dokuwiki .headermenu ul li {
+    margin: 0;
+    padding: 0 10px 0 0;
+    display: inline-block;
+    font-size: 85%;
+}
+
+.dokuwiki .headermenu ul li a {
+    color: #333;
+    display: inline-block;
+    min-height: 16px;
+}
+
+.headermenu p {
+    margin-bottom: 0px;
+}
+
